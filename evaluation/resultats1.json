@@ -1,0 +1,336 @@
+{
+  "classique": [
+    {
+      "id": "q01",
+      "famille": "simple",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 870,
+      "duree_s": 10.531372800003737,
+      "reponse": "Entre 250 et 350 mots."
+    },
+    {
+      "id": "q02",
+      "famille": "simple",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1023,
+      "duree_s": 0.9062178999884054,
+      "reponse": "La méthode STAR signifie Situation, Tâche, Action, Résultat, et sert à structurer les réponses aux questions comportementales."
+    },
+    {
+      "id": "q03",
+      "famille": "simple",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 849,
+      "duree_s": 0.7739326999289915,
+      "reponse": "20 janvier 2027"
+    },
+    {
+      "id": "q04",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 964,
+      "duree_s": 0.7430276999948546,
+      "reponse": "Le stage Data Scientist (H/F) demande du ML."
+    },
+    {
+      "id": "q05",
+      "famille": "reformulation",
+      "verdict": "faux_negatif",
+      "bon_document_vu": false,
+      "bonne_source_citee": false,
+      "nb_recherches": 1,
+      "tokens": 905,
+      "duree_s": 2.795730600017123,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q06",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 892,
+      "duree_s": 2.949768199934624,
+      "reponse": "Non, le stage chez Nexalia est hybride : il nécessite 3 jours sur site."
+    },
+    {
+      "id": "q07",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 838,
+      "duree_s": 3.0975708999903873,
+      "reponse": "L’offre de stage Ingénieur DevOps / Cloud (H/F) requiert des connaissances en Kubernetes."
+    },
+    {
+      "id": "q08",
+      "famille": "comparaison",
+      "verdict": "faux_negatif",
+      "bon_document_vu": false,
+      "bonne_source_citee": false,
+      "nb_recherches": 1,
+      "tokens": 870,
+      "duree_s": 1.9400634999619797,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q09",
+      "famille": "comparaison",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 934,
+      "duree_s": 1.3247207999229431,
+      "reponse": "L'offre Data Scientist (BanqueNord) a la date limite de candidature la plus proche, le 15 décembre 2026."
+    },
+    {
+      "id": "q10",
+      "famille": "hors_corpus",
+      "verdict": "juste",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 1,
+      "tokens": 880,
+      "duree_s": 3.786027199937962,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q11",
+      "famille": "hors_corpus",
+      "verdict": "juste",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 1,
+      "tokens": 908,
+      "duree_s": 0.5950919000897557,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q12",
+      "famille": "salutation",
+      "verdict": "faux_negatif",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 1,
+      "tokens": 804,
+      "duree_s": 3.107676299987361,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q13",
+      "famille": "comparaison",
+      "verdict": "faux_negatif",
+      "bon_document_vu": false,
+      "bonne_source_citee": false,
+      "nb_recherches": 1,
+      "tokens": 798,
+      "duree_s": 3.1678130999207497,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q14",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 884,
+      "duree_s": 2.327664599986747,
+      "reponse": "L’offre de stage Data Scientist (H/F) à BanqueNord, Tunis (Les Berges du Lac)."
+    },
+    {
+      "id": "q15",
+      "famille": "hors_corpus",
+      "verdict": "juste",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 1,
+      "tokens": 934,
+      "duree_s": 0.7529852000297979,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    }
+  ],
+  "agentique": [
+    {
+      "id": "q01",
+      "famille": "simple",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1862,
+      "duree_s": 1.3554481000173837,
+      "reponse": "Une lettre de motivation pour un stage doit tenir sur une seule page, idéalement entre **250 et 350 mots**. [guide_lettre_motivation.md]"
+    },
+    {
+      "id": "q02",
+      "famille": "simple",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1950,
+      "duree_s": 0.8406712000723928,
+      "reponse": "La méthode STAR est une technique de réponse aux questions comportementales en entretien. Elle se décompose en quatre parties :  \n- **Situation** : le contexte du projet ou de la situation.  \n- **Tâche** : ce qui vous était demandé ou votre responsabilité.  \n- **Action** : ce que vous avez fait personnellement.  \n- **Résultat** : l’effet obtenu, idéalement chiffré.  \n\n[guide_entretien_technique.md]"
+    },
+    {
+      "id": "q03",
+      "famille": "simple",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1914,
+      "duree_s": 1.2010850999504328,
+      "reponse": "La date limite pour postuler au stage DevOps est le **20 janvier 2027** [offre_stage_devops.md]."
+    },
+    {
+      "id": "q04",
+      "famille": "reformulation",
+      "verdict": "hallucination",
+      "bon_document_vu": true,
+      "bonne_source_citee": false,
+      "nb_recherches": 6,
+      "tokens": 9773,
+      "duree_s": 50.84405590000097,
+      "reponse": "Limite de tours atteinte : l'agent n'a pas fourni de réponse finale."
+    },
+    {
+      "id": "q05",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1907,
+      "duree_s": 13.02533420000691,
+      "reponse": "La gratification du stage chez Nexalia est de **1000 TND par mois**. [offre_stage_ia_generative.md]"
+    },
+    {
+      "id": "q06",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1913,
+      "duree_s": 11.569788599968888,
+      "reponse": "Le stage chez Nexalia est **hybride** : il prévoit 3 jours sur site, donc le télétravail n’est pas la modalité principale. [offre_stage_ia_generative.md]"
+    },
+    {
+      "id": "q07",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1939,
+      "duree_s": 9.130775499972515,
+      "reponse": "Le stage qui requiert l’utilisation de Kubernetes est : **Ingénieur DevOps / Cloud (H/F) chez TelcoMed**.  \n[offre_stage_devops.md]"
+    },
+    {
+      "id": "q08",
+      "famille": "comparaison",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 2,
+      "tokens": 3498,
+      "duree_s": 25.281668000039645,
+      "reponse": "Le stage qui offre la rémunération la plus élevée est l’**Internship offer: Generative AI & LLM Agents Intern** chez Nexalia, qui propose un **stipend de 1000 TND par mois** [offre_stage_ia_generative.md]."
+    },
+    {
+      "id": "q09",
+      "famille": "comparaison",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 2027,
+      "duree_s": 8.812023799982853,
+      "reponse": "La date limite la plus proche est celle de l’offre **Data Scientist (PFE) chez BanqueNord** : **15 décembre 2026**.  \n[offre_stage_data_science.md]"
+    },
+    {
+      "id": "q10",
+      "famille": "hors_corpus",
+      "verdict": "juste",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 4,
+      "tokens": 6699,
+      "duree_s": 41.7278894999763,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    },
+    {
+      "id": "q11",
+      "famille": "hors_corpus",
+      "verdict": "hallucination",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 2,
+      "tokens": 3488,
+      "duree_s": 21.263824600027874,
+      "reponse": "BanqueNord recrute **un stagiaire** cette année. [offre_stage_data_science.md]"
+    },
+    {
+      "id": "q12",
+      "famille": "salutation",
+      "verdict": "juste",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 0,
+      "tokens": 786,
+      "duree_s": 0.35403259994927794,
+      "reponse": "Avec plaisir !"
+    },
+    {
+      "id": "q13",
+      "famille": "comparaison",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 2,
+      "tokens": 3555,
+      "duree_s": 16.14232310000807,
+      "reponse": "Le stage qui paie le moins est celui d’Ingénieur DevOps / Cloud chez TelcoMed, qui offre une gratification de **700 TND par mois** [offre_stage_devops.md]."
+    },
+    {
+      "id": "q14",
+      "famille": "reformulation",
+      "verdict": "juste",
+      "bon_document_vu": true,
+      "bonne_source_citee": true,
+      "nb_recherches": 1,
+      "tokens": 1950,
+      "duree_s": 13.898199900053442,
+      "reponse": "L’offre de stage située à Tunis est celle de **BanqueNord** : Data Scientist (H/F) – 6 mois, début février 2027. [offre_stage_data_science.md]"
+    },
+    {
+      "id": "q15",
+      "famille": "hors_corpus",
+      "verdict": "juste",
+      "bon_document_vu": null,
+      "bonne_source_citee": null,
+      "nb_recherches": 4,
+      "tokens": 6812,
+      "duree_s": 44.098113400046714,
+      "reponse": "Je n'ai pas trouvé cette information dans les documents."
+    }
+  ]
+}

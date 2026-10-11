@@ -1,0 +1,13 @@
+# Étape 0 : embeddings locaux
+numpy
+sentence-transformers
+# Étape 1 : validation des données
+pydantic
+# Étape 3 : recherche par mots-clés
+rank-bm25
+# Étape 4 : LLM (comme au projet 1)
+groq
+python-dotenv
+# Étape 7 : API
+fastapi
+uvicorn

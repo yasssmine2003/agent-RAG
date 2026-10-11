@@ -1,0 +1,17 @@
+[
+    {"id": "q01", "famille": "simple", "question": "Combien de mots doit faire une lettre de motivation ?", "mots_attendus": ["250", "350"], "source_attendue": "guide_lettre_motivation.md"},
+    {"id": "q02", "famille": "simple", "question": "Que signifie la méthode STAR en entretien ?", "mots_attendus": ["situation", "tâche|task", "action", "résultat|result"], "source_attendue": "guide_entretien_technique.md"},
+    {"id": "q03", "famille": "simple", "question": "Quelle est la date limite pour postuler au stage DevOps ?", "mots_attendus": ["20 janvier 2027|20/01/2027"], "source_attendue": "offre_stage_devops.md"},
+    {"id": "q04", "famille": "reformulation", "question": "Quels stages demandent du ML ?", "mots_attendus": ["data scientist|data science"], "source_attendue": "offre_stage_data_science.md"},
+    {"id": "q05", "famille": "reformulation", "question": "Quelle est la gratification du stage chez Nexalia ?", "mots_attendus": ["1000"], "source_attendue": "offre_stage_ia_generative.md"},
+    {"id": "q06", "famille": "reformulation", "question": "Le stage chez Nexalia se fait-il en télétravail ?", "mots_attendus": ["hybrid"], "source_attendue": "offre_stage_ia_generative.md"},
+    {"id": "q07", "famille": "reformulation", "question": "Which internship requires Kubernetes?", "mots_attendus": ["devops|telcomed"], "source_attendue": "offre_stage_devops.md"},
+    {"id": "q08", "famille": "comparaison", "question": "Quel stage paie le mieux ?", "mots_attendus": ["1000"], "source_attendue": "offre_stage_ia_generative.md"},
+    {"id": "q09", "famille": "comparaison", "question": "Quelle offre a la date limite de candidature la plus proche ?", "mots_attendus": ["15 décembre|15 december|15/12"], "source_attendue": "offre_stage_data_science.md"},
+    {"id": "q10", "famille": "hors_corpus", "question": "Quel est le salaire moyen d'un data scientist en France ?", "introuvable": true},
+    {"id": "q11", "famille": "hors_corpus", "question": "Combien de stagiaires BanqueNord recrute-t-elle cette année ?", "introuvable": true},
+    {"id": "q12", "famille": "salutation", "question": "Merci beaucoup !"},
+    {"id": "q13", "famille": "comparaison", "question": "Quel stage paie le moins ?", "mots_attendus": ["700"], "source_attendue": "offre_stage_devops.md"},
+    {"id": "q14", "famille": "reformulation", "question": "Which internship is located in Tunis?", "mots_attendus": ["banquenord|data scien"], "source_attendue": "offre_stage_data_science.md"},
+    {"id": "q15", "famille": "hors_corpus", "question": "Quel est le numéro de téléphone de TelcoMed ?", "introuvable": true}
+  ]

@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+data/index/
+data/pieges/
+evaluation/resultats*.json
